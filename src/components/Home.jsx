@@ -64,9 +64,9 @@ function Home() {
         </button>
       </div>
       <h1 className="center">Products</h1>
-      <div className="cont2">
+      <div className="cont2" style={{width:"90%",height:"500px",margin:"auto"}}>
         
-           <div className="cont2in">
+           <div className="cont2in" >
              <img onClick={()=>{navigate("/product")}} height="100%" width="100%" src="https://images.unsplash.com/photo-1592832122594-c0c6bad718b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXBwbGUlMjBwaG9uZXxlbnwwfHwwfHw%3D&w=1000&q=80" alt="" />
              <h3>Mobile</h3>
            </div>
