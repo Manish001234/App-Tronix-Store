@@ -13,7 +13,7 @@ const MobileDisplay = () => {
 
     const [data, setData]=useState([])
     const getData=()=>{
-        axios.get(`https://tryjson.herokuapp.com/mobiles/${mobid.id}`).then((res)=>{
+        axios.get(`https://apptroix.herokuapp.com/mobiles/${mobid.id}`).then((res)=>{
             setData(res.data)
             console.log(res.data)
            

@@ -8,7 +8,7 @@ const Ipad = () => {
     const [data, setData]=useState([])
     const [filtering,setFiltering]=useState([])
     const getData=()=>{
-        axios.get('https://tryjson.herokuapp.com/Ipad').then((res)=>{
+        axios.get('https://apptroix.herokuapp.com/Ipad').then((res)=>{
             setData(res.data)
             setFiltering(res.data)
         })

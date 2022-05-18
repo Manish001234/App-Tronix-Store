@@ -8,7 +8,7 @@ function Product() {
   const [data, setData]=useState([])
   const [filtering,setFiltering]=useState([])
   const getData=()=>{
-      axios.get('https://tryjson.herokuapp.com/mobiles').then((res)=>{
+      axios.get('https://apptroix.herokuapp.com/mobiles').then((res)=>{
           setData(res.data)
           setFiltering(res.data)
       })
