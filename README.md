@@ -1,73 +1,74 @@
+<h1 align="center"> App-Tronix-Store <h1/>  
+<h3>APPTRONIX-STORE . Basically this is an ecommerce website where user can buy Apple products like , "MOBILE" , "LAPTOP" , "IPAD" . apply filters as per your need and in just a few clicks you can buy any products from the website .</h3>
+  
+## Features
+- Login/Signup User Account
+- Product Sorting Based on Price
+- Product Filters Based on Category
+- Cart Add/Remove Items 
 
-<h1>Deployment Link : https://app-tronix-store.vercel.app/</h1>
+## Tech Stack
 
-# Getting Started with Create React App
+#### **Frontend**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width=20/> [ReactJs](https://reactjs.org/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width=20 /> [Redux](https://redux.js.org)
+- <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width=20 /> [CSS](https://www.w3schools.com/css/)
 
-## Available Scripts
+#### **Backend**
 
-In the project directory, you can run:
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width=25 /> [Mongodb](https://www.mongodb.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width=25 /> [Expressjs](https://expressjs.com/)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width=25 /> [Nodejs](https://nodejs.org/en/)
+  
+  
+## Glimpses of website :
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<table>
+   <tr>
+    <td><h4>Login</h4><img src="https://cdn-images-1.medium.com/max/1000/1*-qElgVLBNMiqWetagzW4FQ.png" alt="Login" /></td>
+    <td><h4>Signup</h4><img src="https://cdn-images-1.medium.com/max/1000/1*qzjj85Q87qCBsc2mngkM3w.png" alt="Signup" /></td>
+  </tr>
+  <tr>
+    <td><h4>Home</h4><img src="https://cdn-images-1.medium.com/max/1000/1*EqbJe7nMglEJTUfFsQLo_w.png" alt="home" /></td>
+    <td><h4>Mobiles</h4><img src="https://cdn-images-1.medium.com/max/1000/1*v-9rkgV2NYqhmXOX8JdD0g.png" alt="mobiles" /></td>
+  </tr>
+  <tr>
+    <td><h4>Ipads</h4><img src="https://cdn-images-1.medium.com/max/1000/1*4u8MLHfWNEdww5Lhu9R6WQ.png" alt="ipad" /></td>
+    <td><h4>Ipad Description</h4><img src="https://cdn-images-1.medium.com/max/1000/1*J7OZvMvALkHuVmEVO4IB0w.png" alt="ipad-details" /></td>
+  </tr>
+  <tr>
+    <td><h4>Cart</h4><img src="https://cdn-images-1.medium.com/max/1000/1*ZAAjtPZftvcFyjUlUwDxYw.png" alt="cart" /></td>
+     <td><h4>Checkout</h4><img src="https://cdn-images-1.medium.com/max/1000/1*NP3y8OQhEnw1WGCp9_QphQ.png" alt="checkout" /></td>
+  </tr>
+  
+</table>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<br />
+  
+ <h3 align="center">Want to see live preview »</h3>
+<p align="center"> 
+    <br />
+    <a target="blank" href="https://app-tronix.vercel.app/">Deployed Link</a>    
+    
+ </p>
+  
+  
+## Tools used on this project
 
-### `npm test`
+- Visual Studio Code
+- create-react-app template
+- MongoDB compass
+  
+  
+<h2>Contact</h2>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+If you want to contact me, you can reach me through below handles.
 
-### `npm run build`
+[![linkedin](https://img.shields.io/badge/Manish-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manish-reddy-76063a222/)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
